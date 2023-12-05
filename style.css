@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* body{
+    padding:0px 20px ;
+} */
+.dieuHuong{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: rgb(57, 50, 50);
+    padding:0px 20px ;
+  
+}
+.dieuHuong div a{
+    text-decoration: none;
+    color:white;
+}
+.trangChu{
+
+}
+.thanhVien{
+    display:flex;
+    justify-content: space-between;
+    width:400px;
+}
+
+.anh img{
+    width: 100%;
+    height: 100%;
+   
+}
+.anh{
+    background-color: black;
+}
+
+
